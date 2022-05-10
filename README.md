@@ -4,9 +4,10 @@
 
 * [Overview](#overview)
 * [User Guide](#user-guide)
-*  [The Ups](#the-ups)
-*  [The Downs](#the-downs)
-*  [Contact](#contact)
+* [The Ups](#the-ups)
+* [The Downs](#the-downs)
+* [Contact](#contact)
+* [User Dialogue](#user-dialogue)
 
 ## Overview 
 This project consisted of me writing a program that would print the lyrics to "99 Bottles of Beer on the Wall" to the console. I wrote my code in an IDE on my Macbook Pro. After finishing the code, I used my mac terminal (ssh client) to create a local GitHub repository on the command line. 
@@ -44,5 +45,44 @@ I ran into some issues with connecting my local repository to the on-site reposi
   
 ## Contact
 If you have any questions or need additional assistance, you may email me at nkimotou@gmail.com. 
+  
+# User Dialogue
+##This section of the README is dedicated to customer dialogue as part of the Technical Support Engineer role. 
+
+In this scenario, a user reaches out to the Technical Support team with an issue regarding inability to reach The Mom Project website. 
+
+**User**: Hi Nanami, I have been trying to access The Mom Project website all morning! None of the images load and sometimes I get an error message. I can't login either. Can you help? 
+  
+**Technical Support Engineer Nanami**: Hi User, I'll be happy to help you with this issue. Wha sort of device are you using? Is it a desktop computer, laptop, tablet, or smartphone? 
+  
+**User**: I'm using a smartphone.
+  
+**Technical Support Engineer Nanami**: What sort of browser are you using? Are you using Safari, Chrome, Firefox, or a different browser? 
+  
+**User**: I'm using Safari on my iPhone. I tried using Chrome and got the same issue. However, my coworker was able to login from his computer in his home. 
+  
+**Note: Since the coworker is able to access the website a login, Nanami navigates to the site to check that she can see the wbsite and login. After confirming that the site isn't down, Nanami believes this is a user specific isue. Since the user tried a different browser with the same issue, she can conclude that the issue isn't in the user's cache or cookies for safari, but instead may be a wifi issue. Nanami presses further about the error message. **
+
+**Technical Support Engineer Nanami**: You mentioned seeing an error message before, do you remember what the error message said? 
+
+**User**: The error said it couldn't connect to the server. 
+ 
+**Technical Support Engineer Nanami**: Can you check your internet connectivity on your iPhone? If you go into settings you will see Wi-Fi. Click that option and check that you are connected to your local Wi-Fi. Otherwise, check if you are connected to your mobile data service provided my your mobile carrier. 
+  
+**User**: I have checked my Wi-Fi, the connection is on but the strength is very weak! What can be done? 
+
+**Technical Support Engineer Nanami**: We can reset your internet modem and Wi-Fi router to see if that fixes the connectivity issue. Go to the room where both devices are located. Unplug them for five minutes, then plug them back in and allow a few minutes for connectiviy to be restored. 
+  
+NOTE: Ten minutes have passed. 
+
+**User**: Hi Nanami, my Wi-Fi connectivity is restored and I am able to browse The Mom Project website and login now! Thank you for your help. 
+  
+**Technical Support Engineer Nanami**: Hi User, I'm happy to hear the issue was resolved. Please reach out if you have any additional questions or concerns. 
+  
+  
+ **NOTE: In this situation, I'm able to ask a series of questions to figure out that this is more of a hardware issue on the user's end instead of a software issue on our end. Asking these questions allows me to reduce the amount of time I will spend figuring out a solution and helps the user get back to their daily life a lot quicker. In the event that this was a login issue that occured with several users on different networks, that would tell me it is an issue on our (The Mom Project) end. We would then intiate a routine for figuring out if our website is down, which aspects our down, how long has it been down, why is down, how fast can we figure out a solution, etc. 
+  
+  
+
 
   
