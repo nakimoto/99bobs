@@ -61,7 +61,7 @@ In this scenario, a user reaches out to the Technical Support team with an issue
   
 **User**: I'm using Safari on my iPhone. I tried using Chrome and got the same issue. However, my coworker was able to login from his computer in his home. 
   
-**NOTE: Since the coworker is able to access the website a login, Nanami navigates to the site to check that she can see the wbsite and login. After confirming that the site isn't down, Nanami believes this is a user specific isue. Since the user tried a different browser with the same issue, she can conclude that the issue isn't in the user's cache or cookies for safari, but instead may be a wifi issue. Nanami presses further about the error message.**
+**NOTE: Since the coworker is able to access the website a login, Nanami navigates to the site to check that she can see the website and login. After confirming that the site isn't down, Nanami believes this is a user specific isue. Since the user tried a different browser with the same issue, she can conclude that the issue isn't in the user's cache or cookies for safari, but instead may be a Wi-Fi issue. Nanami presses further about the error message.**
 
 **Technical Support Engineer Nanami**: You mentioned seeing an error message before, do you remember what the error message said? 
 
