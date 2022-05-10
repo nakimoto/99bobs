@@ -28,8 +28,9 @@ The code in the program "99bottles.py" is Python. In order to run this code on y
 Alternatively, you can also clone the entire repository. This is especially great if you use something like GitKraken or GitHub Desktop.
  
   **double check that your command client can run Python (by ensuring it's installed and checking version type) and make sure your command client's directory is the correct path to execute the program**
-  
-For more advanced needs, please see the "99bobs.git" folder in the repository. This folder contains all of the commit data from using git init when I initially created the repository locally. You will be able to see changes, the commit log, configurations, and other information. There is also a section in that folder that includes a list of commands I used to create the local repository on my terminal. 
+
+In the top level directory of this repository, you will find the README.md (what you're currently reading), the 99bottles.py file, a 99bobs.git folder and the commands.txt that includes a list of commands I used to create the local repository on my terminal. 
+For more advanced needs, please see the "99bobs.git" folder in the repository. This folder contains all of the commit data from using git init when I initially created the repository locally. You will be able to see changes, the commit log, configurations, and other information. 
   
  ## The Ups 
 The code for this project was very straightforward. The idea is to start with an initialized variable that contains my 99 beer bottles, then I created a while loop in which executions of code can be made so long as there were at least (0) beer bottles on the wall. After each verse of the song, a new amount of beer bottles is required. In order to do this, you can subtract 1 from your initial variable and set it to the original variable name. 
