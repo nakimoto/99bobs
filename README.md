@@ -41,7 +41,7 @@ I also learned that you have to unhide your .git files manually on your computer
 ## The Downs
 I ran into some issues with connecting my local repository to the on-site repository I created on GitHub's website. I would get error messages stating that the remote repository was already created, but when I would commit and push it would tell me the repository doesn't exist. I found out this is due to me accidentally creating it in the wrong directory. I had a previous project file from a long time ago that interfered with me creating a new one in the same location. It was attempting to push to the wrong remote repository. 
   
-# Contact
+## Contact
 If you have any questions or need additional assistance, you may email me at nkimotou@gmail.com. 
 
   
