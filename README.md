@@ -4,8 +4,8 @@
 
 * [Overview](#overview)
 * [User Guide](#user-guide)
-*  [The Ups](#ups)
-*  [The Downs](#downs)
+*  [The Ups](#the-ups)
+*  [The Downs](#the-downs)
 *  [Contact](#contact)
 
 ## Overview 
