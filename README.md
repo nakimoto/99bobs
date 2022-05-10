@@ -47,7 +47,7 @@ I ran into some issues with connecting my local repository to the on-site reposi
 If you have any questions or need additional assistance, you may email me at nkimotou@gmail.com. 
   
 # User Dialogue
-##This section of the README is dedicated to customer dialogue as part of the Technical Support Engineer role. 
+## This section of the README is dedicated to customer dialogue as part of the Technical Support Engineer role. 
 
 In this scenario, a user reaches out to the Technical Support team with an issue regarding inability to reach The Mom Project website. 
 
@@ -61,7 +61,7 @@ In this scenario, a user reaches out to the Technical Support team with an issue
   
 **User**: I'm using Safari on my iPhone. I tried using Chrome and got the same issue. However, my coworker was able to login from his computer in his home. 
   
-**Note: Since the coworker is able to access the website a login, Nanami navigates to the site to check that she can see the wbsite and login. After confirming that the site isn't down, Nanami believes this is a user specific isue. Since the user tried a different browser with the same issue, she can conclude that the issue isn't in the user's cache or cookies for safari, but instead may be a wifi issue. Nanami presses further about the error message. **
+**NOTE: Since the coworker is able to access the website a login, Nanami navigates to the site to check that she can see the wbsite and login. After confirming that the site isn't down, Nanami believes this is a user specific isue. Since the user tried a different browser with the same issue, she can conclude that the issue isn't in the user's cache or cookies for safari, but instead may be a wifi issue. Nanami presses further about the error message. **
 
 **Technical Support Engineer Nanami**: You mentioned seeing an error message before, do you remember what the error message said? 
 
@@ -73,14 +73,14 @@ In this scenario, a user reaches out to the Technical Support team with an issue
 
 **Technical Support Engineer Nanami**: We can reset your internet modem and Wi-Fi router to see if that fixes the connectivity issue. Go to the room where both devices are located. Unplug them for five minutes, then plug them back in and allow a few minutes for connectiviy to be restored. 
   
-NOTE: Ten minutes have passed. 
+**NOTE: Ten minutes have passed.**
 
 **User**: Hi Nanami, my Wi-Fi connectivity is restored and I am able to browse The Mom Project website and login now! Thank you for your help. 
   
 **Technical Support Engineer Nanami**: Hi User, I'm happy to hear the issue was resolved. Please reach out if you have any additional questions or concerns. 
   
   
- **NOTE: In this situation, I'm able to ask a series of questions to figure out that this is more of a hardware issue on the user's end instead of a software issue on our end. Asking these questions allows me to reduce the amount of time I will spend figuring out a solution and helps the user get back to their daily life a lot quicker. In the event that this was a login issue that occured with several users on different networks, that would tell me it is an issue on our (The Mom Project) end. We would then intiate a routine for figuring out if our website is down, which aspects our down, how long has it been down, why is down, how fast can we figure out a solution, etc. 
+ **NOTE: In this situation, I'm able to ask a series of questions to figure out that this is more of a hardware issue on the user's end instead of a software issue on our end. Asking these questions allows me to reduce the amount of time I will spend figuring out a solution and helps the user get back to their daily life a lot quicker. In the event that this was a login issue that occured with several users on different networks, that would tell me it is an issue on our (The Mom Project) end. We would then intiate a routine for figuring out if our website is down, which aspects our down, how long has it been down, why is down, how fast can we figure out a solution, etc.**
   
   
 
