@@ -47,11 +47,11 @@ I ran into some issues with connecting my local repository to the on-site reposi
 If you have any questions or need additional assistance, you may email me at nkimotou@gmail.com. 
   
 # User Dialogue
-## This section of the README is dedicated to customer dialogue as part of the Technical Support Engineer role. 
+## This section of the README is dedicated to customer support. 
 
-In this scenario, a user reaches out to the Technical Support team with an issue regarding inability to reach The Mom Project website. 
+In this scenario, a user reaches out to the Technical Support team with an issue regarding inability to reach a website. 
 
-**User**: Hi Nanami, I have been trying to access The Mom Project website all morning! None of the images load and sometimes I get an error message. I can't log in either. Can you help? 
+**User**: Hi Nanami, I have been trying to access this website all morning! None of the images load and sometimes I get an error message. I can't log in either. Can you help? 
   
 **Technical Support Engineer Nanami**: Hi User, I'll be happy to help you with this issue. Wha sort of device are you using? Is it a desktop computer, laptop, tablet, or smartphone? 
   
